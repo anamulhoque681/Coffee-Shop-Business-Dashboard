@@ -1,4 +1,4 @@
-Coffee Shop Business Analysis Dashboard (Interactive DashBoard Created by Ms Excel)
+#Coffee Shop Business Analysis Dashboard (Interactive DashBoard Created by Ms Excel)
 
 This Excel project presents a performance dashboard for a coffee and food outlet. It highlights key business metrics such as total transactions, quantity sold, total revenue, and profit. The dashboard includes category-wise transaction data, revenue breakdown by product type and city, and weekday transaction trends.
 
